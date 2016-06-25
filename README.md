@@ -10,3 +10,6 @@ DEMO for task 1_4:
 >[method 1](http://wavysea.github.io/BaiduIFE/task1_4m1.html)
 
 >[method 2](http://wavysea.github.io/BaiduIFE/task1_4m2.html)
+
+DEMO for task 1_5:
+>[demo](http://wavysea.github.io/BaiduIFE/task1_5.html)
