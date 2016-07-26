@@ -16,3 +16,6 @@ DEMO for task 1_5:
 
 DEMO for task1_7:
 >[demo](http://wavysea.github.io/BaiduIFE/task1_7.html)
+
+DEMO for task2_13:
+>[demo](http://wavysea.github.io/BaiduIFE/task2_13.html)
