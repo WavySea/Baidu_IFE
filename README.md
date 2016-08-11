@@ -22,3 +22,6 @@ DEMO for task2_13:
 
 DEMO for task 2_14:
 >[Demo](http://wavysea.github.io/BaiduIFE/task2_14.html)
+
+DEMO for task 2_18:
+>[Demo](http://wavysea.github.io/BaiduIFE/task2_18.html)
